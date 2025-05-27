@@ -13,7 +13,7 @@ Execução
 Para executar o script, abra um terminal ou prompt de comando, navegue até o diretório onde salvou o arquivo e execute o seguinte comando:
 Bash
 
-python ping_monitor.py
+python apm.py
 
 O script o guiará através de algumas perguntas de configuração:
 
